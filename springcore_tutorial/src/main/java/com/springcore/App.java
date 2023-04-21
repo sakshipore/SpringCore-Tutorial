@@ -1,7 +1,7 @@
 package com.springcore;
 
-import org.springframework.context.*;
-import org.springframework.context.support.*;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class App
 {
